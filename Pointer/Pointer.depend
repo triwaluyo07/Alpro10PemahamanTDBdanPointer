@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1526978750 source:d:\alpro10\pointer\fungsi.c
+	"header.h"
+
+1526978763 d:\alpro10\pointer\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1526978943 source:d:\alpro10\pointer\main.c
+	"header.h"
+
+1526978752 source:e:\alpro\alpro10\pointer\fungsi.c
+	"header.h"
+
+1526978764 e:\alpro\alpro10\pointer\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1526978944 source:e:\alpro\alpro10\pointer\main.c
+	"header.h"
+
+1526978752 source:g:\alpro\alpro10\pointer\fungsi.c
+	"header.h"
+
+1526978764 g:\alpro\alpro10\pointer\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1526978944 source:g:\alpro\alpro10\pointer\main.c
+	"header.h"
+
